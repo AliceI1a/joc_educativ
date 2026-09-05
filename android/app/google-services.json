@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204828775862",
+    "project_id": "kidsapp-92680",
+    "storage_bucket": "kidsapp-92680.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204828775862:android:193aba6c7d6c18bbdc5d17",
+        "android_client_info": {
+          "package_name": "com.example.nume_proiect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIExg56VwbhupH3J5DLCA_bY_Rh-k3BYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
